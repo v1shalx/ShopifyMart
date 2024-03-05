@@ -33,11 +33,11 @@ function Navbar() {
                         <div className='flex gap-x-2items-center'>
                             <div className='flex gap-x-1 items-center border-r border-r-gray-400 px-2 md:px-3 font-medium'>
                                 <MdWifiCalling2 className='text-orange-400 text-xs md:text-sm'></MdWifiCalling2>
-                                <p className='text-sm'>+91 8554565565</p>
+                                <p className='text-sm'>+91 8010414088</p>
                             </div>
                             <div className='flex items-center gap-x-2 px-2 md:px-3 text-sm'>
                                 <MdEmail className='text-orange-400 text-xs md:text-sm'></MdEmail>
-                                <p>.com</p>
+                                <p>mahajanxvishal@gmail.com</p>
                             </div>
                         </div>
                         <div className='flex items-center'>
@@ -82,7 +82,7 @@ function Navbar() {
                         <Link to={"/"}>
                             <div className='flex flex-row items-center'>
                                 <img src="https://i.ibb.co/Ld6BLNW/logo-eshop-removebg-preview.png" height={"50"} width={"50"} alt="logo" />
-                                <h1 className='text-2xl text-bold font-medium text-transparent bg-clip-text bg-gradient-to-r from-black to-orange-600  text-center uppercase'>ShopifyMart</h1>
+                                <h1 className='text-2xl text-bold font-medium text-transparent bg-clip-text bg-gradient-to-r from-black to-orange-600  text-center'>BharatE</h1>
                             </div>
                         </Link>
                         <div>

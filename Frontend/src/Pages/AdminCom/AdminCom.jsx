@@ -19,7 +19,7 @@ function AdminCom() {
               <div className=" bg-white rounded-xl shadow-lg p-4 h-[90vh]">
                 <Link to='/' className='flex flex-row items-center gap-x-2 justify-center py-3 lg:py-4'>
                   <img src="https://i.ibb.co/Ld6BLNW/logo-eshop-removebg-preview.png" height={"50"} width={"50"} alt="logo" />
-                  <h1 className='text-xl lg:text-2xl text-bold font-medium text-transparent bg-clip-text bg-gradient-to-r from-black to-orange-600  text-center uppercase'>ShopifyMart</h1>
+                  <h1 className='text-xl lg:text-2xl text-bold font-medium text-transparent bg-clip-text bg-gradient-to-r from-black to-orange-600  text-center uppercase'>BharatE</h1>
                 </Link><hr />
 
                 <div className="py-0 lg:py-2">

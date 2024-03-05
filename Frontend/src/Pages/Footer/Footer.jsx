@@ -9,7 +9,7 @@ function Footer() {
             <Link to={"/"}>
                 <div className='flex flex-col items-center gap-y-2'>
                     <img src="https://i.ibb.co/Ld6BLNW/logo-eshop-removebg-preview.png" height={"50"} width={"50"} alt="logo" />
-                    <h1 className='text-2xl text-bold font-medium text-transparent bg-clip-text bg-gradient-to-r from-black to-orange-600  text-center uppercase'>ShopifyMart</h1>
+                    <h1 className='text-2xl text-bold font-medium text-transparent bg-clip-text bg-gradient-to-r from-black to-orange-600  text-center uppercase'>BharatE</h1>
                 </div>
             </Link>
             <nav>
