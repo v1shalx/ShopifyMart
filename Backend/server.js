@@ -22,7 +22,7 @@ app.use(express.static("public"))
 app.use(morgan("dev"));
 app.use(express.json());
 app.use(cors({
-  origin: ['https://online-shop-ferioyala.netlify.app', 'http://localhost:5173'],
+  origin: ['https://bharat-e-commerce.vercel.app/', 'http://localhost:5173'],
   credentials: true
 }));
 app.use(cookieParser());
